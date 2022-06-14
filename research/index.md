@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-flask"></i>Our projects
 
 {% include section.html %}
-## <i class="fas fa-bacteria"></i> Microbiome and development of the nervous system
+## <i class="fas fa-bacteria"></i><i class="fas fa-brain"></i> Microbiome and development of the nervous system
 {% capture text %}
 While the microbiota has been linked to brain and behavioral changes, it remains unclear how microbes at different life stages can determine brain development and function, and behavior. 
 
@@ -35,7 +35,7 @@ The goal of this project is to understand how microbes fundamentally impact the 
 %}
 
 {% include section.html %}
-## <i class="fas fa-laptop-medical"></i> Microbiota interactions with the genes and the environment
+## <i class="fas fa-bacteria"></i><i class="fas fa-dna"></i> Microbiota interactions with the genes and the environment
 {% capture text %}
 Alterations of the maternal gut microbiome, in response to perturbations such as infection, altered diet and stress during pregnancy, has been increasingly associated with abnormalities in offspring brain function and behaviors. We previously investigated how maternal microbiota interact with exposure to a common antidepressant, fluoxetine, to influence brain development. We identified changes in fetal brain gene expression in specific brain regions including the thalamus and lateral ganglionic eminence. 
 
@@ -57,7 +57,7 @@ The goal of this project is to investigate the interactions between microbiome a
 %}
 
 {% include section.html %}
-## <i class="fas fa-syringe"></i> Human microbiota in neurological health and diseases
+## <i class="fas fa-head-side-brain"></i> Human microbiota in neurological health and diseases
 {% capture text %}
 Animal studies provide critical knowledge about how microbiota interactions (microbes-microbes and microbes-host) can regulate brain and behavior in health and disease models. Several recent studies demonstrate how by transplanting of patient microbiota samples into germ-free mice, we can begin to dissect the role of the human microbiota for neurological health, and potential therapeutic value. 
 
