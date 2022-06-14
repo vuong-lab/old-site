@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Drake's Science
-description: A summary of my scientific endeavors and accomplishments.
+title: Helen Vuong Lab at University of Minnesota, Twin Cities
+description: Decoding maternal and early-life microbes in nervous system development, function, and behavior.
 logo: images/logo.png
 header: 
 footer: 
@@ -10,11 +10,11 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: drakewilliams@gmail.com
+  email: hevuong@umn.edu
   orcid: 0000-0002-7718-2098
   google-scholar: 6SmnW4IAAAA
-  github: williamsdrake
-  twitter: drake_dds
+  github: vuong-lab
+  twitter: helenvuongphd
 
 ### advanced settings
 
