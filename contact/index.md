@@ -7,25 +7,22 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-I am currently a Clinical Research Fellow at the [National Institue of Dental and Craniofacial Research](https://www.nidcr.nih.gov/careers-training/interns-fellows/dentists-physicians/clinical-research-fellowship), in the [Oral Immunity and Infection Section](https://www.nidcr.nih.gov/research/conducted-at-nidcr/intramural-research-labs/oral-immunity-infection-section) led by Dr. Niki Moutsopoulos.
-We are located in Building 30 at the NIH Bethesda, MD Campus.
-
 {%
   include link.html
   type="email"
   icon=""
-  text="drakewilliams@gmail.com"
+  text="hevuong@umn.edu"
   tooltip=""
-  link="drakewilliams@gmail.com"
+  link="hevuong@umn.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(301) 814-6334"
+  text="(612) 626-5719" 
   tooltip=""
-  link="+1-301-814-6334"
+  link="+1-612-626-5719"
   style="button"
 %}
 {%
@@ -43,22 +40,23 @@ We are located in Building 30 at the NIH Bethesda, MD Campus.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-30 CONVENT DR BG 30 RM 331
-BETHESDA, MD, USA 20892-0001
+Phillips-Wangensteen Building
+516 Delaware St SE,
+Minneapolis, MN 55455
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/building10.jpg"
-  caption="NIH Clinical Center"
+  image="images/east.jpg"
+  caption="U of MN East Bank"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/building30.jpg"
-  caption="NIH Building 30"
+  image="images/west.jpg"
+  caption="U of MN West Bank"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
