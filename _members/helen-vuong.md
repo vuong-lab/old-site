@@ -4,10 +4,8 @@ image: images/helen.jpg
 description:
 role: pi
 aliases:
-  - Helen Elaine Vuong
-  - Helen E Vuong
-  - HE Vuong
-  - Helen Vuong
+  - H.E. Vuong
+  - H. E. Vuong
   - Helen E. Vuong
 links:
   email: hevuong@umn.edu
