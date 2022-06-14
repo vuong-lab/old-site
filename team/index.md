@@ -56,7 +56,6 @@ If interested, please email Dr. Vuong. Attached to this email, please include a 
 - Your short- and long-term career goals
 
 Please also include your CV summarizing past academic, professional and research experience along with the names of three potential references.
-{:.center}
 
 {% include section.html %}
 
