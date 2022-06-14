@@ -14,10 +14,6 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
-  icon: fas fa-code
-  text: Programmer
-
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+tech:
+  icon: fas fa-search
+  text: Research Assistant

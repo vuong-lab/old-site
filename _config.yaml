@@ -11,8 +11,6 @@ baseurl: ""
 # site social media and other links
 links:
   email: hevuong@umn.edu
-  orcid: 0000-0002-7718-2098
-  google-scholar: 6SmnW4IAAAA
   github: vuong-lab
   twitter: helenvuongphd
 
@@ -55,9 +53,6 @@ sass:
 
 # syntax highlighting
 highlighter: rouge
-
-# Google Analytics:
-google_analytics: UA-216067793-1
 
 # plugins
 plugins:
