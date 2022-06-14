@@ -1,7 +1,7 @@
 ---
 title: Resources
 nav:
-  order: 3
+  order: 4
   tooltip: Datasets, protocols, and more
 ---
 
@@ -13,11 +13,15 @@ nav:
 
 ## Datasets
 
+Coming soon
+
 {% include list.html component="card" data="resources" filters="group: dataset" %}
 
 {% include section.html %}
 
 ## Protocols
+
+Coming soon
 
 {% include list.html component="card" data="resources" filters="group: protocol" %}
 
