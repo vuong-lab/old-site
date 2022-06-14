@@ -2,6 +2,7 @@
 name: Helen Vuong
 image: images/helen.jpg
 description:
+group: current
 role: pi
 aliases:
   - H.E. Vuong

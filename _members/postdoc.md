@@ -1,5 +1,5 @@
 ---
-name: Post Doc
+name: postdoc
 image: images/you.jpg
 description:
 role: postdoc
