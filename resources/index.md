@@ -13,7 +13,8 @@ nav:
 
 ## Datasets
 
-Coming soon
+Coming soon!
+{:.center}
 
 {% include list.html component="card" data="resources" filters="group: dataset" %}
 
@@ -21,8 +22,8 @@ Coming soon
 
 ## Protocols
 
-Coming soon
-
+Coming soon!
+{:.center}
 {% include list.html component="card" data="resources" filters="group: protocol" %}
 
 {% include section.html %}
