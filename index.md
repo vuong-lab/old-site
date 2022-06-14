@@ -2,7 +2,7 @@
 title: Home
 ---
 
-### Decoding maternal and early-life microbes in nervous system development, function, and behavior.
+### Decoding maternal and early-life microbes in nervous system development and function, and behavior
 
 {% include section.html %}
 
