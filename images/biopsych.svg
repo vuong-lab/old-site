@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1808"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="biopsych.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1810"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-570.77272"
+     inkscape:cy="1959.653"
+     inkscape:window-width="3000"
+     inkscape:window-height="1890"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1805">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath43">
+      <path
+         d="m 538.52,7276.56 h 1126.77 v 306.223 H 538.52 Z"
+         id="path41" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3367">
+      <path
+         d="m 52.441,738.595 h 277.625 v -72 H 52.441"
+         id="path3365" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3627">
+      <path
+         d="m 473.442,735.931 h 76.479 v -22.337 h -76.479 z"
+         id="path3625" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4680">
+      <path
+         d="M 0.029999,782.986 H 584.957 V 0.03 H 0.029999 Z"
+         id="path4678" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5252">
+      <path
+         d="M 0.029999,782.986 H 584.957 V 0.03 H 0.029999 Z"
+         id="path5250" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-weight:normal;font-size:194.819px;font-family:AdvOT34fe1490;-inkscape-font-specification:AdvOT34fe1490;writing-mode:lr-tb;fill:#94312b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:27.9357"
+       id="text5260"
+       x="7.5502901"
+       y="457.0127"><tspan
+         x="7.5502901 143.34033 192.04486 311.64368 360.34821 478.01843 595.68866 644.39337 755.82861 867.26404"
+         y="457.0127"
+         sodipodi:role="line"
+         id="tspan5256"
+         style="fill:#94312b;fill-opacity:1;stroke-width:27.9357">Biological</tspan><tspan
+         x="5.9746523 135.72311 239.16916 338.52612 449.96631 563.54285 612.24738 723.6828 790.5072 865.50952"
+         y="651.81195"
+         sodipodi:role="line"
+         id="tspan5258"
+         style="fill:#94312b;fill-opacity:1;stroke-width:27.9357">Psychiatry</tspan></text>
+  </g>
+</svg>

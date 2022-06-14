@@ -1,116 +1,10 @@
-- id: doi:10.1002/jbmr.4614
-  image: images/jbmr.svg
-  tags:
-    - MRONJ
-    - periodontitis
-    - bone
-    - phd
-- id: doi:10.1016/j.bbrc.2022.02.088
-  image: images/bbrc.svg
-  tags:
-    - extracellular vesicle
-    - damage
-    - IL36
-    - phd
-- id: doi:10.1038/s41368-022-00166-4
-  image: images/ijos.svg
-  tags:
-    - MRONJ
-    - microbiome
-    - phd
+- id: doi:10.1016/j.bbr.2021.113353
   extra-links:
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8934872/
+      link: https://pubmed.ncbi.nlm.nih.gov/33979656/
       text: PMC Full Text
-- id: doi:10.1016/j.xpro.2021.100908
-  image: images/starProtocols.svg
-  tags:
-    - single cell isolation
-    - immunology
-    - resource
-    - post-doc
-  extra-links:
-    - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551218/
-      text: PMC Full Text
-- id: doi:10.1016/j.cell.2021.05.013
-  image: images/cell.svg
-  tags:
-    - scRNA seq
-    - omics
-    - oral atlas
-    - periodontitis
-    - immunology
-    - post-doc
-  extra-links:
-    - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359928/
-      text: PMC Full Text
-    - type: preprint
-      link: https://www.biorxiv.org/content/10.1101/2021.04.06.438702v1
-      text: bioRxiv
-    - type: source
-      link: https://github.com/williamsdrake/oralAtlas
-      text: Code
-    - type: data
-      link: https://oral.cellatlas.io/
-      text: Interactive data viewer
-    - type: video
-      link: https://jrnlclub.org/research-films/oral-mucosa-cell-atlas
-      text: JRNL club
-    - type: opinion
-      link: https://doi.org/10.3410/f.740287213.793587038
-      text: Faculty Opinions (Excellent)
-    - type: press
-      link: https://www.nidcr.nih.gov/news-events/nidcr-news/2021/census-inside-your-mouth
-      text: NIDCR News
-    - type: press
-      link: https://www.nature.com/articles/s41577-021-00582-3
-      text: Nature Reviews Immunology
-    - type: press
-      link: https://doi.org/10.1111/all.15219
-      text: Allergy (News and Views)
-    - type: press
-      link: https://www.dentistrytoday.com/oral-cell-census-reveals-insight-into-periodontal-disease/
-      text: Dentistry Today
-- id: doi:10.1126/science.aay5731
-  image: images/science.svg
-  tags:
-    - AIRE-deficiency
-    - interferonopathy
-    - immunology
-    - post-doc
-  extra-links:
-    - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8326743/
-      text: PMC Full Text
-    - type: opinion
-      link: https://doi.org/10.3410/f.739361046.793582190
-      text: Faculty Opinions (Excellent)
-    - type: opinion
-      link: https://doi.org/10.3410/f.739361046.793582293
-      text: Faculty Opinions (Excellent)
-    - type: opinion
-      link: https://doi.org/10.3410/f.739361046.793582683
-      text: Faculty Opinions (Excellent)
-    - type: press
-      link: https://www.niaid.nih.gov/news-events/how-do-fungal-infections-take-hold-rare-disease-offers-new-insights
-      text: NIAID Now
-    - type: press
-      link: https://www.nidcr.nih.gov/news-events/nidcr-news/2021/how-fungus-finds-foothold-mouth
-      text: NIDCR News
-    - type: press
-      link: https://www.dentistrytoday.com/news/industrynews/item/7931-researchers-uncover-how-fungus-takes-hold-in-the-oral-cavity
-      text: Dentistry Today
 - id: doi:10.1038/s41586-020-2745-3
   image: images/nature.svg
-  date: 2020-9-23
-  tags:
-    - microbiome
-    - neurodevelopment
-    - metabolite
-    - maternal-fetal
-    - post-doc
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554197/
@@ -125,34 +19,19 @@
       link: https://www.nature.com/articles/d41586-020-02657-y
       text: Nature News and Views
     - type: press
-      link: https://newsroom.ucla.edu/releases/maternal-microbiota-and-the-fetal-brain
-      text: UCLA Newsroom
-    - type: press
-      link: https://www.eurekalert.org/pub_releases/2020-09/uoc--hmi092320.php
-      text: EurekaAlert!
-    - type: press
-      link: https://www.sciencedaily.com/releases/2020/09/200923164601.htm
-      text: Science Daily
+      link: https://www.nature.com/articles/s41583-020-00401-z
+      text: Nature Reviews Neuroscience
     - type: press
       link: https://www.sciencenews.org/article/mother-mouse-gut-microbes-microbiome-pup-brain
       text: Science News
     - type: press
-      link: https://bioengineer.org/how-microbes-in-a-mothers-intestines-affect-fetal-neurodevelopment/
-      text: Bioengineer.org
+      link: https://newsroom.ucla.edu/releases/maternal-microbiota-and-the-fetal-brain
+      text: UCLA Newsroom
     - type: press
       link: https://theconversation.com/how-a-pregnant-mouses-microbes-influence-offsprings-brain-development-new-study-offers-clues-146521
       text: The Conversation
-    - type: press
-      link: https://medium.com/predict/mothers-microbes-shape-the-brain-of-their-unborn-children-7872370aeda9
-      text: Medium
 - id: doi:10.1177/0022034520908594
   image: images/jdr.svg
-  tags:
-    - MRONJ
-    - microbiome
-    - periodontitis
-    - bone
-    - phd
   extra-links:
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7243424/
@@ -160,108 +39,93 @@
     - type: press
       link: https://doi.org/10.1177/0022034520918536
       text: Special Edition on Oral Microbiome
-- id: doi:10.1128/MRA.01481-18
-  image: images/mra.svg
-  tags:
-    - K mycobacteriophage
-    - sequencing
-    - resource
-    - pre-doc
+- id: doi:10.1038/s41564-019-0540-4
+  image: images/naturemicro.svg
   extra-links:
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6328665/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6879823/
       text: PMC Full Text
-- id: doi:10.1016/j.ajpath.2018.06.019
-  image: images/ajp.svg
-  tags:
-    - MRONJ
-    - periodontitis
-    - bone
-    - phd
+    - type: press
+      link: https://www.nature.com/articles/s41575-019-0227-6.pdf?proof=t
+      text: Nature Reviews Gastroenterology and Hepatology
+- id: doi:10.1016/j.neuron.2018.12.035
+  image: images/neuron.svg
   extra-links:
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169128/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661156/
       text: PMC Full Text
-    - type: press
-      link: https://doi.org/10.1016/j.ajpath.2018.08.001
-      text: This Month in AJP
-- id: doi:10.1002/jbmr.2985
-  image: images/jbmr.svg
-  tags: 
-    - MRONJ
-    - IL36
-    - collagen
-    - bone
-    - phd
+- id: doi:10.1016/j.cell.2018.04.027
+  image: images/cell.svg
   extra-links:  
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5642919/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003870/
       text: PMC Full Text
-- id: doi:10.1111/acel.12364
-  image: images/agingCell.svg
-  tags:
-    - aging
-    - senescence
-    - p53
-    - epigenetics
-    - phd
+    - type: press
+      link: https://nyti.ms/2CV37me
+      text: New York Times
+    - type: press
+      link: https://science.sciencemag.org/content/360/6394/1199.3
+      text: Science
+    - type: press
+      link: https://stm.sciencemag.org/content/10/446/eaau0471.full?intcmp=trendmd-stm
+      text: Science Translational Medicine
+    - type: press
+      link: https://facultyopinions.com/prime/733283386?bd=1#tab=recommendations
+      text: Faculty Opinions
+    - type: press
+      link: https://goo.gl/snenm5
+      text: PNAS Journal Club
+    - type: press
+      link: https://reader.elsevier.com/reader/sd/pii/S1931312818303263?token=7C607731CE0BBCB54F15D6E6E8645C487C96BBFD2F74D4E3D89698DFA98AF07153A5C3F3F78DE11A0673257238F56E78
+      text: Cell Host & Microbe
+    - type: press
+      link: https://lifesciences.ucla.edu/2018-19-life-sciences-excellence-awards-winners/
+      text: UCLA Life Sciences Excellence Award
+- id: doi:10.1038/nmicrobiol.2016.122
+  image: images/naturemicro.svg
   extra-links:
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4568971/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961809/
       text: PMC Full Text
-- id: doi:10.1016/j.ajpath.2014.07.010
-  image: images/ajp.svg
-  tags:
-    - MRONJ
-    - bone
-    - RANKL
-    - phd
-  extra-links:
-    - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4215026/
-      text: PMC Full Text
-    - type: press
-      link: https://newsroom.ucla.edu/releases/study-by-ucla-scientists-reveals-new-findings-about-cause-of-lesions-around-jaw-bone
-      text: UCLA Newsroom
-    - type: press
-      link: https://dentistry.ucla.edu/newsletter/15/01/research-news
-      text: UCLA School of Dentistry
-    - type: press
-      link: https://doi.org/10.1016/j.ajpath.2014.08.016
-      text: This Month in AJP
-    - type: cme
-      link: 
-      text: ASIP CME Manuscript
-- id: doi:10.1016/j.joen.2013.06.004
-  image: images/joe.svg
-  tags:
-    - HEMA
-    - wound healing
-    - dental pulp stem cells
-    - pre-doc
+- id: doi:10.1146/annurev-neuro-072116-031347
+  image: images/annualreviews.svg
   extra-links:  
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771400/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661159/
       text: PMC Full Text
-- id: doi:10.1016/j.joen.2012.09.006
-  image: images/joe.svg
-  tags:
-    - Camphorquinone
-    - dental pulp stem cells
-    - wound healing
-    - pre-doc
+- id: doi:10.1038/s41386-018-0211-9
+  image: images/neuropshycho.svg
   extra-links:  
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770841/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6224506/
       text: PMC Full Text
-- id: doi:10.1177/0022034511402995
-  image: images/jdr.svg
-  tags:
-    - bisphosphonate
-    - senescence
-    - oral fibroblasts
-    - pre-doc
+    - type: press
+      link: https://www.nature.com/articles/s41591-018-0246-9
+      text: Nature Medicine
+- id: doi:10.1016/j.biopsych.2016.08.024
+  image: images/biopsych.svg
   extra-links:  
     - type: preprint
-      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144120/
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5285286/
+      text: PMC Full Text
+- id: doi:10.3389/fncel.2020.600777
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735995/
+      text: PMC Full Text
+- id: doi:10.1016/j.neuroscience.2015.08.060
+  image: images/jneuro.svg
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603663/
+      text: PMC Full Text
+- id: doi:10.1007/s11427-013-4493-1
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3804076/
+      text: PMC Full Text
+- id: doi:10.1523/JNEUROSCI.3382-15.2015
+  extra-links:  
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666919/
       text: PMC Full Text
