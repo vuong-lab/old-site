@@ -72,7 +72,7 @@ The goal of this project is to further translation of microbiome research. We ai
 
 {%
   include feature.html
-  image="images/placeholder.svg"
+  image="images/humanResearch.jpeg"
   link=""
   headline=""
   text=text
