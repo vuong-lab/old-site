@@ -294,6 +294,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3804076/
     text: PMC Full Text
+  image: images/scichina.svg
 - id: doi:10.1523/JNEUROSCI.3382-15.2015
   title: Parallel Inhibition of Dopamine Amacrine Cells and Intrinsically Photosensitive
     Retinal Ganglion Cells in a Non-Image-Forming Visual Circuit of the Mouse Retina
