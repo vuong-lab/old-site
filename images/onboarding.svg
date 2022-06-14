@@ -1,89 +1,189 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="47px" height="65px" viewBox="0 0 47 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
-    <title>Docs-icon</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-1"></path>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-3"></path>
-        <linearGradient x1="50.0053945%" y1="8.58610612%" x2="50.0053945%" y2="100.013939%" id="linearGradient-5">
-            <stop stop-color="#1A237E" stop-opacity="0.2" offset="0%"></stop>
-            <stop stop-color="#1A237E" stop-opacity="0.02" offset="100%"></stop>
-        </linearGradient>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-6"></path>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-8"></path>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-10"></path>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-12"></path>
-        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="path-14"></path>
-        <radialGradient cx="3.16804688%" cy="2.71744318%" fx="3.16804688%" fy="2.71744318%" r="161.248516%" gradientTransform="translate(0.031680,0.027174),scale(1.000000,0.723077),translate(-0.031680,-0.027174)" id="radialGradient-16">
-            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
-        </radialGradient>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Consumer-Apps-Docs-Large-VD-R8" transform="translate(-451.000000, -463.000000)">
-            <g id="Hero" transform="translate(0.000000, 63.000000)">
-                <g id="Personal" transform="translate(277.000000, 309.000000)">
-                    <g id="Docs-icon" transform="translate(174.000000, 91.000000)">
-                        <g id="Group">
-                            <g id="Clipped">
-                                <mask id="mask-2" fill="white">
-                                    <use xlink:href="#path-1"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L36.71875,10.3409091 L29.375,0 Z" id="Path" fill="#4285F4" fill-rule="nonzero" mask="url(#mask-2)"></path>
-                            </g>
-                            <g id="Clipped">
-                                <mask id="mask-4" fill="white">
-                                    <use xlink:href="#path-3"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <polygon id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero" mask="url(#mask-4)" points="30.6638281 16.4309659 47 32.8582386 47 17.7272727"></polygon>
-                            </g>
-                            <g id="Clipped">
-                                <mask id="mask-7" fill="white">
-                                    <use xlink:href="#path-6"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <path d="M11.75,47.2727273 L35.25,47.2727273 L35.25,44.3181818 L11.75,44.3181818 L11.75,47.2727273 Z M11.75,53.1818182 L29.375,53.1818182 L29.375,50.2272727 L11.75,50.2272727 L11.75,53.1818182 Z M11.75,32.5 L11.75,35.4545455 L35.25,35.4545455 L35.25,32.5 L11.75,32.5 Z M11.75,41.3636364 L35.25,41.3636364 L35.25,38.4090909 L11.75,38.4090909 L11.75,41.3636364 Z" id="Shape" fill="#F1F1F1" fill-rule="nonzero" mask="url(#mask-7)"></path>
-                            </g>
-                            <g id="Clipped">
-                                <mask id="mask-9" fill="white">
-                                    <use xlink:href="#path-8"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <g id="Group" mask="url(#mask-9)">
-                                    <g transform="translate(26.437500, -2.954545)">
-                                        <path d="M2.9375,2.95454545 L2.9375,16.25 C2.9375,18.6985795 4.90929688,20.6818182 7.34375,20.6818182 L20.5625,20.6818182 L2.9375,2.95454545 Z" id="Path" fill="#A1C2FA" fill-rule="nonzero"></path>
-                                    </g>
-                                </g>
-                            </g>
-                            <g id="Clipped">
-                                <mask id="mask-11" fill="white">
-                                    <use xlink:href="#path-10"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <path d="M4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,4.80113636 C0,2.36363636 1.9828125,0.369318182 4.40625,0.369318182 L29.375,0.369318182 L29.375,0 L4.40625,0 Z" id="Path" fill-opacity="0.2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-11)"></path>
-                            </g>
-                            <g id="Clipped">
-                                <mask id="mask-13" fill="white">
-                                    <use xlink:href="#path-12"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <path d="M42.59375,64.6306818 L4.40625,64.6306818 C1.9828125,64.6306818 0,62.6363636 0,60.1988636 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,60.1988636 C47,62.6363636 45.0171875,64.6306818 42.59375,64.6306818 Z" id="Path" fill-opacity="0.2" fill="#1A237E" fill-rule="nonzero" mask="url(#mask-13)"></path>
-                            </g>
-                            <g id="Clipped">
-                                <mask id="mask-15" fill="white">
-                                    <use xlink:href="#path-14"></use>
-                                </mask>
-                                <g id="SVGID_1_"></g>
-                                <path d="M33.78125,17.7272727 C31.3467969,17.7272727 29.375,15.7440341 29.375,13.2954545 L29.375,13.6647727 C29.375,16.1133523 31.3467969,18.0965909 33.78125,18.0965909 L47,18.0965909 L47,17.7272727 L33.78125,17.7272727 Z" id="Path" fill-opacity="0.1" fill="#1A237E" fill-rule="nonzero" mask="url(#mask-15)"></path>
-                            </g>
-                        </g>
-                        <path d="M29.375,0 L4.40625,0 C1.9828125,0 0,1.99431818 0,4.43181818 L0,60.5681818 C0,63.0056818 1.9828125,65 4.40625,65 L42.59375,65 C45.0171875,65 47,63.0056818 47,60.5681818 L47,17.7272727 L29.375,0 Z" id="Path" fill="url(#radialGradient-16)" fill-rule="nonzero"></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_00000062898910896862210600000015135282937385524919_);fill:#4285F4;}
+	.st3{filter:url(#Adobe_OpacityMaskFilter_00000022559985207848272550000007370018807446521498_);}
+	
+		.st4{mask:url(#mask-4_00000099642179041872408970000010885518549901143962_);fill:url(#Path_00000134938098323801958230000004397894596320092288_);}
+	.st5{filter:url(#Adobe_OpacityMaskFilter_00000112632375033764598850000005494461106196066461_);}
+	.st6{mask:url(#mask-7_00000005263128681961527600000017434600426658765471_);fill:#F1F1F1;}
+	.st7{filter:url(#Adobe_OpacityMaskFilter_00000144297556085511824330000017491448458171048104_);}
+	.st8{mask:url(#mask-9_00000019651086224099866200000009466392389129510533_);}
+	.st9{fill:#A1C2FA;}
+	.st10{filter:url(#Adobe_OpacityMaskFilter_00000122716927426226992120000012019347362797237689_);}
+	.st11{mask:url(#mask-11_00000052065423626774714060000004693769689251111587_);fill:#FFFFFF;fill-opacity:0.2;}
+	.st12{filter:url(#Adobe_OpacityMaskFilter_00000031930363198816769880000005120388777166287527_);}
+	.st13{mask:url(#mask-13_00000144331356356515836500000005939103825975924123_);fill:#1A237E;fill-opacity:0.2;}
+	.st14{filter:url(#Adobe_OpacityMaskFilter_00000121276632155949941930000002801228160360300200_);}
+	.st15{mask:url(#mask-15_00000087414576977248641930000018208509749136906382_);fill:#1A237E;fill-opacity:0.1;}
+	.st16{fill:url(#Path_00000000214979661809922640000013894676375260705698_);}
+</style>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Consumer-Apps-Docs-Large-VD-R8" transform="translate(-451.000000, -463.000000)">
+		<g id="Hero" transform="translate(0.000000, 63.000000)">
+			<g id="Personal" transform="translate(277.000000, 309.000000)">
+				<g id="Docs-icon" transform="translate(174.000000, 91.000000)">
+					<g id="Group_00000173863413430745388280000015432356329135882417_">
+						<g id="Clipped">
+							<g id="SVGID_1_">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="109.6" y="75" width="180.8" height="250">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="109.6" y="75" width="180.8" height="250" id="mask-2_00000062898910896862210600000015135282937385524919_">
+								<g class="st0">
+									<path id="path-1_00000117652649714415345240000018087546395628575150_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							<path id="Path" class="st2" d="M222.6,75h-96c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9
+								c9.3,0,16.9-7.7,16.9-17V143.2l-39.5-28.4L222.6,75z"/>
+						</g>
+						<g id="Clipped_00000140733578230116504080000007327537608864611232_">
+							<g id="SVGID_00000149353296390877785450000014936878980929160327_">
+							</g>
+							<defs>
+								
+									<filter id="Adobe_OpacityMaskFilter_00000093862491736309130080000008261837650479005344_" filterUnits="userSpaceOnUse" x="227.6" y="138.2" width="62.8" height="63.2">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="227.6" y="138.2" width="62.8" height="63.2" id="mask-4_00000099642179041872408970000010885518549901143962_">
+								<g style="filter:url(#Adobe_OpacityMaskFilter_00000093862491736309130080000008261837650479005344_);">
+									<path id="path-3_00000036964299875395833730000003269621514629965231_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							
+								<linearGradient id="Path_00000016770337642847890040000004973028519703326860_" gradientUnits="userSpaceOnUse" x1="-169.5573" y1="500.4096" x2="-169.5573" y2="496.8931" gradientTransform="matrix(16.3362 0 0 -16.4273 3028.8855 8363.9854)">
+								<stop  offset="0" style="stop-color:#1A237E;stop-opacity:0.2"/>
+								<stop  offset="1" style="stop-color:#1A237E;stop-opacity:2.000000e-02"/>
+							</linearGradient>
+							
+								<polygon id="Path_00000004528047675572433650000016439683307462256574_" style="mask:url(#mask-4_00000099642179041872408970000010885518549901143962_);fill:url(#Path_00000016770337642847890040000004973028519703326860_);" points="
+								227.6,138.2 290.4,201.4 290.4,143.2 							"/>
+						</g>
+						<g id="Clipped_00000117664211048073987640000011343030143701567145_">
+							<g id="SVGID_00000042707441478830365100000015203094208977373827_">
+							</g>
+							<defs>
+								
+									<filter id="Adobe_OpacityMaskFilter_00000150802317589902440160000009082548466389899415_" filterUnits="userSpaceOnUse" x="154.8" y="200" width="90.4" height="79.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="154.8" y="200" width="90.4" height="79.5" id="mask-7_00000005263128681961527600000017434600426658765471_">
+								<g style="filter:url(#Adobe_OpacityMaskFilter_00000150802317589902440160000009082548466389899415_);">
+									<path id="path-6_00000023965714680825036170000000718926152672755120_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							<path id="Shape" class="st6" d="M154.8,256.8h90.4v-11.4h-90.4V256.8z M154.8,279.5h67.8v-11.4h-67.8V279.5z M154.8,200v11.4
+								h90.4V200H154.8z M154.8,234.1h90.4v-11.4h-90.4V234.1z"/>
+						</g>
+						<g id="Clipped_00000170268117652412523320000008164848389155303607_">
+							<g id="SVGID_00000067929745874020650270000014564863254613386159_">
+							</g>
+							<defs>
+								
+									<filter id="Adobe_OpacityMaskFilter_00000071538125627647610360000017831949639438198400_" filterUnits="userSpaceOnUse" x="222.6" y="75" width="67.8" height="68.2">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="222.6" y="75" width="67.8" height="68.2" id="mask-9_00000019651086224099866200000009466392389129510533_">
+								<g style="filter:url(#Adobe_OpacityMaskFilter_00000071538125627647610360000017831949639438198400_);">
+									<path id="path-8_00000036248352728200439980000001971543675645583233_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							<g id="Group" class="st8">
+								<g transform="translate(26.437500, -2.954545)">
+									<path id="Path_00000015356228513287175220000008203675745201221307_" class="st9" d="M196.2,78v51.1c0,9.4,7.6,17,16.9,17
+										h50.8L196.2,78z"/>
+								</g>
+							</g>
+						</g>
+						<g id="Clipped_00000150097520317687999190000008497886350441737350_">
+							<g id="SVGID_00000086653914118320001950000016600550183199729545_">
+							</g>
+							<defs>
+								
+									<filter id="Adobe_OpacityMaskFilter_00000139268443499322631980000017218655278165166005_" filterUnits="userSpaceOnUse" x="109.6" y="75" width="113" height="18.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="109.6" y="75" width="113" height="18.5" id="mask-11_00000052065423626774714060000004693769689251111587_">
+								<g style="filter:url(#Adobe_OpacityMaskFilter_00000139268443499322631980000017218655278165166005_);">
+									<path id="path-10_00000013878603119198170160000006916865113397272457_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							<path id="Path_00000054239139031442636110000011246389644240627077_" class="st11" d="M126.6,75c-9.3,0-16.9,7.7-16.9,17v1.4
+								c0-9.4,7.6-17,16.9-17h96V75H126.6z"/>
+						</g>
+						<g id="Clipped_00000016046576752941636640000008001146924263520428_">
+							<g id="SVGID_00000095327259162503572480000012856784597711857842_">
+							</g>
+							<defs>
+								
+									<filter id="Adobe_OpacityMaskFilter_00000041996268419924695200000008484849952648977086_" filterUnits="userSpaceOnUse" x="109.6" y="306.5" width="180.8" height="18.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="109.6" y="306.5" width="180.8" height="18.5" id="mask-13_00000144331356356515836500000005939103825975924123_">
+								<g style="filter:url(#Adobe_OpacityMaskFilter_00000041996268419924695200000008484849952648977086_);">
+									<path id="path-12_00000017497110208515418080000002467542093509590162_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							<path id="Path_00000006683146386821561640000011646148514828935847_" class="st13" d="M273.4,323.6H126.6
+								c-9.3,0-16.9-7.7-16.9-17v1.4c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17v-1.4C290.4,315.9,282.8,323.6,273.4,323.6z
+								"/>
+						</g>
+						<g id="Clipped_00000032641888265849328000000016247027746528364474_">
+							<g id="SVGID_00000034091968491192028830000013055571512550563713_">
+							</g>
+							<defs>
+								
+									<filter id="Adobe_OpacityMaskFilter_00000031205814978536972180000017558782078496990384_" filterUnits="userSpaceOnUse" x="222.6" y="126.1" width="67.8" height="18.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							
+								<mask maskUnits="userSpaceOnUse" x="222.6" y="126.1" width="67.8" height="18.5" id="mask-15_00000087414576977248641930000018208509749136906382_">
+								<g style="filter:url(#Adobe_OpacityMaskFilter_00000031205814978536972180000017558782078496990384_);">
+									<path id="path-14_00000057120692655464267400000018439116437262670215_" class="st1" d="M222.6,75h-96
+										c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+								</g>
+							</mask>
+							<path id="Path_00000167387563080614753380000013561654069429781137_" class="st15" d="M239.5,143.2c-9.4,0-16.9-7.6-16.9-17
+								v1.4c0,9.4,7.6,17,16.9,17h50.8v-1.4H239.5z"/>
+						</g>
+					</g>
+					
+						<radialGradient id="Path_00000142867121446726881950000010173751036495791016_" cx="-188.8863" cy="510.2985" r="6.2019" gradientTransform="matrix(47 0 0 -47 8993 24065.8242)" gradientUnits="userSpaceOnUse">
+						<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+						<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+					</radialGradient>
+					
+						<path id="Path_00000168819490677784578390000017619579395314172077_" style="fill:url(#Path_00000142867121446726881950000010173751036495791016_);" d="
+						M222.6,75h-96c-9.3,0-16.9,7.7-16.9,17V308c0,9.4,7.6,17,16.9,17h146.9c9.3,0,16.9-7.7,16.9-17V143.2L222.6,75z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>
