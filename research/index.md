@@ -76,7 +76,7 @@ The goal of this project is to further translation of microbiome research. We ai
 {%
   include feature.html
   image="images/humanResearch.png"
-  link=""
+  link="research/#-human-microbiota-in-neurological-health-and-disease"
   headline=""
   text=text
 %}
