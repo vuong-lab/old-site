@@ -1,7 +1,7 @@
 ---
 name: Amanda Borowski
 image: images/amanda.jpg
-description: Research Assistant
+description:
 role: tech
 group: current
 aliases:

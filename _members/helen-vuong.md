@@ -1,7 +1,7 @@
 ---
 name: Helen Vuong
 image: images/helen.jpg
-description: Principal Investigator
+description:
 role: pi
 aliases:
   - Helen Elaine Vuong
