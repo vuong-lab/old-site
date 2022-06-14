@@ -31,7 +31,7 @@ nav:
   icon=""
   text="Google Maps"
   tooltip="Lab location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/QKfWUtzPS2Kqfpnv9"
+  link="https://goo.gl/maps/LbPae5VfSGAkane56"
   style="button"
 %}
 {:.center}
@@ -39,6 +39,8 @@ nav:
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
+
+Lab: 13-121 & 13-125
 
 Phillips-Wangensteen Building
 
