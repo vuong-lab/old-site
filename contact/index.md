@@ -40,12 +40,9 @@ nav:
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Lab: 13-121 & 13-125
-{:.center}
-Phillips-Wangensteen Building
-{:.center}
-516 Delaware St SE,
-{:.center}
+Lab: 13-121 & 13-125  
+Phillips-Wangensteen Building  
+516 Delaware St SE  
 Minneapolis, MN 55455
 {:.center}
 
