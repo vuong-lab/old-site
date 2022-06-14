@@ -2,7 +2,7 @@
 name: post doc
 description:
 role: postdoc
-group: current
+group: alumni
 ---
 
 This could be you!

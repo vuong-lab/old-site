@@ -13,7 +13,19 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="group: current"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: tech, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc, group: current"
 %}
 {:.center}
 
