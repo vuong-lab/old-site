@@ -1,4 +1,5 @@
 - id: doi:10.1016/j.bbr.2021.113353
+  image: images/bbr.svg
   extra-links:
     - type: preprint
       link: https://pubmed.ncbi.nlm.nih.gov/33979656/
