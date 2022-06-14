@@ -17,3 +17,7 @@ undergrad:
 tech:
   icon: fas fa-search
   text: Research Assistant
+  
+mascot:
+  icon: fas fa-paw
+  text: Lab mascot

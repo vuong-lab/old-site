@@ -1,6 +1,6 @@
 - name: Lab onboarding
   group: more
   image: images/onboarding.jpg
-  link: https://drive.google.com/drive/folders/1GOfRXmiLF9jV-x517nUoIrsHukK2r_at?usp=sharing
+  link: https://docs.google.com/document/d/1vGHidvKzlZeO-mruKlXK0M8EJ84HmnNdSfRjMWIJcwM/edit
   description: Instructions for new lab members to get set up in the Vuong Lab
   repo: 
