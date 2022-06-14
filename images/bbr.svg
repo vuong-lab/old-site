@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg6196"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="behavioural brain research.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6198"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="2088.0769"
+     inkscape:cy="2451.9445"
+     inkscape:window-width="2400"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6193">
+    <rect
+       x="2601.7723"
+       y="2768.2477"
+       width="1227.1614"
+       height="722.97878"
+       id="rect7687" />
+    <rect
+       x="1398.3932"
+       y="2164.1799"
+       width="832.37689"
+       height="1132.0326"
+       id="rect7681" />
+    <rect
+       x="875.18484"
+       y="1212.892"
+       width="299.65568"
+       height="1450.714"
+       id="rect7621" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7619"
+       style="fill:#000000;white-space:pre;shape-inside:url(#rect7621)" />
+    <text
+       xml:space="preserve"
+       style="font-size:176.389px;line-height:0.8;letter-spacing:-0.00529167px;word-spacing:-0.015875px;white-space:pre;inline-size:991.997;fill:#808080;stroke-width:0.264583"
+       x="376.28391"
+       y="577.63989"
+       id="text7627"
+       transform="translate(-333.49576,-176.18645)"><tspan
+         x="376.28391"
+         y="577.63989"
+         id="tspan7968"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0.015898574"
+           style="font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif'"
+           id="tspan7966">Behavioural
+</tspan></tspan><tspan
+         x="376.28391"
+         y="720.79293"
+         id="tspan7972"><tspan
+           dx="0 0 0 0 0 0.015879501"
+           style="font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif'"
+           id="tspan7970">Brain
+</tspan></tspan><tspan
+         x="376.28391"
+         y="863.94601"
+         id="tspan7976"><tspan
+           style="font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif'"
+           id="tspan7974">Research</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7679"
+       style="fill:#000000;white-space:pre;shape-inside:url(#rect7681)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7685"
+       style="fill:#000000;font-size:266.66666667px;-inkscape-font-specification:'Microsoft Sans Serif';font-family:'Microsoft Sans Serif';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect7687)" />
+  </g>
+</svg>

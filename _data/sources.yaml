@@ -109,6 +109,7 @@
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5285286/
       text: PMC Full Text
 - id: doi:10.3389/fncel.2020.600777
+  image: images/frontiers.svg
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735995/
@@ -125,6 +126,7 @@
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3804076/
       text: PMC Full Text
 - id: doi:10.1523/JNEUROSCI.3382-15.2015
+  image: images/jneuro.svg
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666919/
