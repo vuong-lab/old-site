@@ -116,7 +116,7 @@
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735995/
       text: PMC Full Text
 - id: doi:10.1016/j.neuroscience.2015.08.060
-  image: images/jneuro.svg
+  image: images/neuroscience.svg
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603663/
