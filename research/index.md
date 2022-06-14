@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-flask"></i>Our projects
 
 {% include section.html %}
-## <i class="fas fa-bacteria"></i>Microbiome and development of the nervous system <i class="fas fa-brain"></i> 
+## <i class="fas fa-bacteria"></i>Microbiome and development of the nervous system emspemsp <i class="fas fa-brain"></i> 
 {% capture text %}
 While the microbiota has been linked to brain and behavioral changes, it remains unclear how microbes at different life stages can determine brain development and function, and behavior. 
 
