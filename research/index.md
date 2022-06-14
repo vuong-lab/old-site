@@ -59,7 +59,7 @@ The goal of this project is to investigate the interactions between microbiome a
 {% include section.html %}
 ## <i class="fas fa-syringe"></i> Human microbiota in neurological health and diseases
 {% capture text %}
-Description: Animal studies provide critical knowledge about how microbiota interactions (microbes-microbes and microbes-host) can regulate brain and behavior in health and disease models. Several recent studies demonstrate how by transplanting of patient microbiota samples into germ-free mice, we can begin to dissect the role of the human microbiota for neurological health, and potential therapeutic value. 
+Animal studies provide critical knowledge about how microbiota interactions (microbes-microbes and microbes-host) can regulate brain and behavior in health and disease models. Several recent studies demonstrate how by transplanting of patient microbiota samples into germ-free mice, we can begin to dissect the role of the human microbiota for neurological health, and potential therapeutic value. 
 
 For this project we will examine the following questions:
 1. How do different gene-environmental risk factors for neuropsychiatric diseases impact the human maternal vaginal, fecal, and oral microbiome?
