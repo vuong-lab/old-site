@@ -19,7 +19,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: tech"
+  filters="role: tech, postdoc, phd"
 %}
 {:.center}
 
