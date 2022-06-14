@@ -5,15 +5,25 @@ nav:
   tooltip: Current Research
 ---
 
-# <i class="fas fa-flask"></i>Core Research Areas
+# <i class="fas fa-flask"></i>Our projects
 
 {% include section.html %}
-## <i class="fas fa-bacteria"></i> Host-microbe interactions in the oral mucosa
+## <i class="fas fa-bacteria"></i> Microbiome and development of the nervous system
 {% capture text %}
-Relatively little is known how host cells respond to specific bacterial antigen and non-specific bacterial stimuli at the oral barrier.
-To determine how the innate and adaptive immune system responds to bacterial and fungal stimuli, we are:  
-- using flow-cytometry-based bacterial/fungal cell sorting and 16S/ITS sequencing to characterize taxa-specific coating of the oral microbiota with immunoglobulin 
-- developing tools to assess T-cell specific responses to known oral pathogens
+While the microbiota has been linked to brain and behavioral changes, it remains unclear how microbes at different life stages can determine brain development and function, and behavior. 
+
+In our previous work we show that the maternal gut microbiota during pregnancy regulates fetal brain gene expression, thalamocortical axonogenesis, and adult offspring tactile sensory behavior. We were the first to show that the homeostatic maternal gut microbiota during pregnancy can regulate the levels of hundreds of bioactive molecules in the maternal serum and fetal brain. In fact, supplementation of select microbially-modulated metabolites in depleted or deficient microbiota models can prevent deficits in thalamocortical axon development and tactile sensory behavior. 
+
+
+For this project we will study the following questions:
+1. How does the maternal microbiota during pregnancy influence different brain development processes such as neocortical organization, neuroimmune development, myelination? 
+2. How does the early-life microbiota influence nervous system development? 
+3. How do microbially-modulated metabolites act on the developing brain?
+4. How does the microbiota during gestation compared to early postnatal life differentially regulate brain processes and behavior?
+
+
+The goal of this project is to understand how microbes fundamentally impact the brain during a critical time of development, and delineate the lasting neurobiological and behavioral consequences.
+
 {% endcapture %}
 
 {%
@@ -25,31 +35,44 @@ To determine how the innate and adaptive immune system responds to bacterial and
 %}
 
 {% include section.html %}
-## <i class="fas fa-laptop-medical"></i> Oral barrier composition in health and disease
+## <i class="fas fa-laptop-medical"></i> Microbiota interactions with the genes and the environment
 {% capture text %}
-We employ a systems biology approach to better understand homeostasis at the oral barrier, and importantly, how homeostasis is disrupted in inflammatory disease (periodontitis).
-We are actively working to expand our understanding of processes that govern disease using a combination of next generation single cell and histology approaches. 
+Alterations of the maternal gut microbiome, in response to perturbations such as infection, altered diet and stress during pregnancy, has been increasingly associated with abnormalities in offspring brain function and behaviors. We previously investigated how maternal microbiota interact with exposure to a common antidepressant, fluoxetine, to influence brain development. We identified changes in fetal brain gene expression in specific brain regions including the thalamus and lateral ganglionic eminence. 
+
+For this project we will study the following questions:
+1. How does the maternal and early-life microbiota respond to different genetic risk factors and challenges/exposures? 
+2. How do specific maternal and/or early-life microbes confer protection, or detrimental effects on offspring brain?
+3. How does maternal and early-life challenges/exposures influence the fetal brain metabolome?
+4. How does maternal and early-life challenges/exposures impact brain development and behavior?
+
+The goal of this project is to investigate the interactions between microbiome and different genetic risk factors or maternal/early-life challenges/exposures, and how these interactions can impact development of the nervous system, neural activity, and ultimately behavior.
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/research_omics.png"
+  image="images/placeholder.svg"
   link=""
   headline=""
   text=text
 %}
 
 {% include section.html %}
-## <i class="fas fa-syringe"></i> Mucosal immunity in mendelian disease
+## <i class="fas fa-syringe"></i> Human microbiota in neurological health and diseases
 {% capture text %}
-The Moutsopoulos Lab sees several cohorts of patients that have single gene mutations which lead to severe oral disease. Using single cell sequencing, we are assessing how experimental treatment influences cell composition and gene expression in:
-- patients with a gain-of-function mutation in *Stat1*, which causes chronic mucocutaneous candidiasis and severe oral ulcers
-- patients with leukocyte adhesion deficiency 1 (LAD1), which causes severe gingival immunopathology leading to early-life tooth loss
+Description: Animal studies provide critical knowledge about how microbiota interactions (microbes-microbes and microbes-host) can regulate brain and behavior in health and disease models. Several recent studies demonstrate how by transplanting of patient microbiota samples into germ-free mice, we can begin to dissect the role of the human microbiota for neurological health, and potential therapeutic value. 
+
+For this project we will examine the following questions:
+1. How do different gene-environmental risk factors for neuropsychiatric diseases impact the human maternal vaginal, fecal, and oral microbiome?
+2. How do mothers exposed to risk factors influence early life microbiome (fecal and oral)?
+3. How do risk factors regulate maternal and fetal metabolomes?
+4. How does the healthy or disease human maternal and early-life microbiota impact offspring growth, development, and behaviors?
+
+The goal of this project is to further translation of microbiome research. We aim to develop therapies that are inspired by the microbiota, bioactive molecules that are regulated by microbes, and targeted interventions at critical windows of development. 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/benchBed.png"
+  image="images/placeholder.svg"
   link=""
   headline=""
   text=text
