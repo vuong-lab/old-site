@@ -257,6 +257,7 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735995/
     text: PMC Full Text
+  image: images/frontiers.svg
 - id: doi:10.1016/j.neuroscience.2015.08.060
   title: Heterogeneous transgene expression in the retinas of the TH-RFP, TH-Cre,
     TH-BAC-Cre and DAT-Cre mouse lines
@@ -307,3 +308,4 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666919/
     text: PMC Full Text
+  image: images/jneuro.svg
