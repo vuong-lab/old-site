@@ -35,7 +35,7 @@ The goal of this project is to understand how microbes fundamentally impact the 
 %}
 
 {% include section.html %}
-## <i class="fas fa-bacteria"></i> Microbiota interactions with the genes and the environment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-dna"></i>
+## <i class="fas fa-bacteria"></i> Microbiota and gene/environment interactions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-dna"></i>
 {% capture text %}
 Alterations of the maternal gut microbiome, in response to perturbations such as infection, altered diet and stress during pregnancy, has been increasingly associated with abnormalities in offspring brain function and behaviors. We previously investigated how maternal microbiota interact with exposure to a common antidepressant, fluoxetine, to influence brain development. We identified changes in fetal brain gene expression in specific brain regions including the thalamus and lateral ganglionic eminence. 
 
