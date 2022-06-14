@@ -58,6 +58,14 @@ The goal of this project is to investigate the interactions between microbiome a
 
 {% include section.html %}
 ## <i class="fas fa-user"></i> Human microbiota in neurological health and disease &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-brain"></i>
+{%
+  include gallery.html
+  image1="images/humanResearch.jpeg"
+  link1=""
+  tooltip1=""
+  style="square"
+%}
+
 {% capture text %}
 Animal studies provide critical knowledge about how microbiota interactions (microbes-microbes and microbes-host) can regulate brain and behavior in health and disease models. Several recent studies demonstrate how by transplanting of patient microbiota samples into germ-free mice, we can begin to dissect the role of the human microbiota for neurological health, and potential therapeutic value. 
 
@@ -69,6 +77,8 @@ For this project we will examine the following questions:
 
 The goal of this project is to further translation of microbiome research. We aim to develop therapies that are inspired by the microbiota, bioactive molecules that are regulated by microbes, and targeted interventions at critical windows of development. 
 {% endcapture %}
+
+
 
 {%
   include feature.html
