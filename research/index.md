@@ -5,7 +5,7 @@ nav:
   tooltip: Current Research
 ---
 
-# <i class="fas fa-flask"></i>Our projects
+# Our projects
 
 {% include section.html %}
 ## <i class="fas fa-bacteria"></i>Microbiome and development of the nervous system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-brain"></i> 
