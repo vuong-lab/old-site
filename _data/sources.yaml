@@ -122,6 +122,7 @@
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603663/
       text: PMC Full Text
 - id: doi:10.1007/s11427-013-4493-1
+  image: images/scichina.svg
   extra-links:  
     - type: preprint
       link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3804076/
