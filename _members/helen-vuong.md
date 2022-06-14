@@ -7,6 +7,7 @@ aliases:
   - H.E. Vuong
   - H. E. Vuong
   - Helen E. Vuong
+  - Helen Vuong
 links:
   email: hevuong@umn.edu
   orcid: 0000-0001-7837-8239
