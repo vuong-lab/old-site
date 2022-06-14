@@ -18,6 +18,7 @@
   - type: preprint
     link: https://pubmed.ncbi.nlm.nih.gov/33979656/
     text: PMC Full Text
+  image: images/bbr.svg
 - id: doi:10.1038/s41586-020-2745-3
   title: The maternal microbiome modulates fetal neurodevelopment in mice
   authors:
