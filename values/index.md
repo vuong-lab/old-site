@@ -15,5 +15,5 @@ We will pursue scientific discovery with honesty, integrity, and rigor. We encou
 
 {% include section.html %}
 
-# <i class="fas fa-hand-holding-heart"></i>We take this racial justice, inclusion and diversity [pledge](https://sammykatta.com/pledge)
+# <i class="fas fa-hand-holding-heart"></i>[Our pledge](https://sammykatta.com/pledge)
 {% include banner.html image="images/labvalues.svg" %}
