@@ -16,19 +16,18 @@
     {{ title }}</a>
   </p>
 
-{% capture col1content %}
-{%- include figure.html image=page.image -%}
-{% endcapture %}
-{% capture col2content %}
-{% include post-info.html author=post.author member=post.member date=post.date tags=post.tags %}
-{% endcapture %}
-
-{% include two-col.html col1=col1content col2=col2content %}
-
+  {% include post-info.html author=post.author member=post.member date=post.date tags=post.tags %}
   
-
+  {% capture col1content %}
+  {%- include figure.html image=page.image -%}
+  {% endcapture %}
+  {% capture col2content %}
   {% assign content = post.content | default: "" %}
   <p>
     {{ content | strip_html | truncate: 500 }}
   </p>
+  {% endcapture %}
+  
+  {% include two-col.html col1=col1content col2=col2content %}
+  
 </div>
