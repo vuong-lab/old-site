@@ -15,13 +15,12 @@
   <p>
     {{ title }}
   </p>
-
-  {% include post-info.html author=post.author member=post.member date=post.date tags=post.tags %}
   
   {% capture col1content %}
   {%- include figure.html image=page.image -%}
   {% endcapture %}
   {% capture col2content %}
+  {% include post-info.html author=post.author member=post.member date=post.date tags=post.tags %}
   {% assign content = post.content | default: "" %}
   <p>
     {{ content | strip_html | truncate: 500 }}
