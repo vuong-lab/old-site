@@ -6,7 +6,7 @@ title: Home
 {% include banner.html image="images/banner.jpeg" %}
 
 {% include section.html %}
-### Decoding maternal and early-life microbes in nervous system development and function, and behavior
+# Decoding maternal and early-life microbes in nervous system development and function, and behavior
 
 The trillions of microbes in and on our bodies impact numerous aspects of our physiology. There are several studies that link gut microbiota to neurobiology and behavior. Our lab aims to dissect the role of microbes in the development of the nervous system, neural circuit function, and behaviors in health and neurological disorders. We will use interdisciplinary approaches to identify and characterize the mechanisms of interaction between microbes and host neural cells. 
 

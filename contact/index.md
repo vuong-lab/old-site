@@ -38,7 +38,7 @@ nav:
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+# <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Phillips-Wangensteen Building, Rm 13-121  
 516 Delaware St SE  
