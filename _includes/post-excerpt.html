@@ -19,7 +19,9 @@
 <div class="post_excerpt">
 
   {% capture col1content %}
-  {% include figure.html image=post.image %}
+  {% include figure.html image=post.image height="100px" %}
+  {% include figure.html image=post.image height="200px" %}
+  {% include figure.html image=post.image height="300px" %}
   {% endcapture %}
   
   {% capture col2content %}
