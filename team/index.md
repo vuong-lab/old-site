@@ -64,12 +64,5 @@ Please also include your CV summarizing past academic, professional and research
 Our work is made possible by funding from the following organizations.
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/NICHD.svg"
-  link1="https://reporter.nih.gov/search/xEIoen8D10u5G0rtB0YXkw/project-details/10569275"
-  tooltip1="Eunice Kennedy Shriver National Institute Of Child Health & Human Development"
-%}
+{% include banner.html image="images/NICHD.svg" %}
 
