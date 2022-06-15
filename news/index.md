@@ -11,4 +11,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" filters="category: news" %}
+{% include list.html data="posts" component="card" filters="category: news" %}
