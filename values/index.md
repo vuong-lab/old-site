@@ -5,7 +5,7 @@ nav:
   tooltip: Lab values
 ---
 
-#<i class="fas fa-hands-helping"></i>Lab values
+# <i class="fas fa-hands-helping"></i>Lab values
 
 We are committed to promoting scientific training, pursuing rigorous research, and advancing scientific discoveries as a team. We are dedicated to building an inclusive and supportive lab environment that will foster your scientific development and enable you to achieve your goals. 
 
@@ -15,5 +15,5 @@ We will pursue scientific discovery with honesty, integrity, and rigor. We encou
 
 {% include section.html %}
 
-#<i class="fas fa-hand-holding-heart"></i>We take this racial justice, inclusion and diversity [pledge](https://sammykatta.com/pledge)
+# <i class="fas fa-hand-holding-heart"></i>We take this racial justice, inclusion and diversity [pledge](https://sammykatta.com/pledge)
 {% include banner.html image="images/labvalues.svg" %}
