@@ -28,7 +28,7 @@ The goal of this project is to understand how microbes fundamentally impact the 
 
 {%
   include feature.html
-  image="images/placeholder.svg"
+  image="images/microNeuro.jpg"
   link="research/#microbiome-and-development-of-the-nervous-system"
   headline=""
   text=text
@@ -50,7 +50,7 @@ The goal of this project is to investigate the interactions between microbiome a
 
 {%
   include feature.html
-  image="images/placeholder.svg"
+  image="images/geneEnv.png"
   link="research/#-microbiota-and-geneenvironment-interactions"
   headline=""
   text=text
