@@ -34,6 +34,7 @@ The Vuong lab is currently recruiting scientists to fill different roles within 
 We are recruiting motivated, creative, and forward-thinking research technicians to join our group. Research technicians are a core component of our laboratory, and this opportunity offers substantial opportunity for personal, professional, and scientific growth and mentorship.
 
 {% include link.html type="external" link="https://hr.myu.umn.edu/jobs/ext/346231" text="Apply Now" icon="" style="button" %}
+{:.center}
 
 #### Graduate Students
 
