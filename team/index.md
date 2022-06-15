@@ -25,7 +25,7 @@ nav:
 
 {% include section.html %}
 
-# Join
+## Join
 
 The Vuong lab is currently recruiting scientists to fill different roles within the laboratory. If you are interested in joining our vibrant team, please follow the links below to apply. 
 
@@ -60,7 +60,7 @@ Please also include your CV summarizing past academic, professional and research
 
 {% include section.html %}
 
-# Funding
+# <i class="fas fa-dollar-sign"></i>Funding
 
 Our work is made possible by funding from the following organizations.
 {:.center}

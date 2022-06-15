@@ -35,7 +35,7 @@ The goal of this project is to understand how microbes fundamentally impact the 
 %}
 
 {% include section.html %}
-## <i class="fas fa-dna"></i> Microbiota and gene/environment interactions 
+## <i class="fas fa-dna"></i>Microbiota and gene/environment interactions 
 {% capture text %}
 Alterations of the maternal gut microbiome, in response to perturbations such as infection, altered diet and stress during pregnancy, has been increasingly associated with abnormalities in offspring brain function and behaviors. We previously investigated how maternal microbiota interact with exposure to a common antidepressant, fluoxetine, to influence brain development. We identified changes in fetal brain gene expression in specific brain regions including the thalamus and lateral ganglionic eminence. 
 
@@ -57,7 +57,7 @@ The goal of this project is to investigate the interactions between microbiome a
 %}
 
 {% include section.html %}
-## <i class="fas fa-user"></i> Human microbiota in neurological health and disease
+## <i class="fas fa-user"></i>Human microbiota in neurological health and disease
 
 {% capture text %}
 Animal studies provide critical knowledge about how microbiota interactions (microbes-microbes and microbes-host) can regulate brain and behavior in health and disease models. Several recent studies demonstrate how by transplanting of patient microbiota samples into germ-free mice, we can begin to dissect the role of the human microbiota for neurological health, and potential therapeutic value. 
