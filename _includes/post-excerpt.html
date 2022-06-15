@@ -23,6 +23,8 @@
     date=post.date
     tags=post.tags
   %}
+  
+  {%- include figure.html image=page.image -%}
 
   {% assign content = post.content | default: "" %}
   <p>
