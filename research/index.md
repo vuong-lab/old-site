@@ -28,7 +28,7 @@ The goal of this project is to understand how microbes fundamentally impact the 
 
 {%
   include feature.html
-  image="images/microNeuro.jpg"
+  image="images/microNeuro.png"
   link="research/#microbiome-and-development-of-the-nervous-system"
   headline=""
   text=text
