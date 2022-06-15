@@ -16,15 +16,16 @@
     {{ title }}</a>
   </p>
 
-  {%
-    include post-info.html
-    author=post.author
-    member=post.member
-    date=post.date
-    tags=post.tags
-  %}
+{% capture col1content %}
+{%- include figure.html image=page.image -%}
+{% endcapture %}
+{% capture col2content %}
+{% include post-info.html author=post.author member=post.member date=post.date tags=post.tags %}
+{% endcapture %}
+
+{% include two-col.html col1=col1content col2=col2content %}
+
   
-  {%- include figure.html image=page.image -%}
 
   {% assign content = post.content | default: "" %}
   <p>
