@@ -14,15 +14,7 @@
   {% assign title = post.title | default: "" %}
   
   {% capture col1content %}
-  {%- assign image = member.image | default: "" -%}
-  <span class="portrait_image">
-    <img
-      src="{{ image | relative_url }}"
-      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-      loading="lazy"
-      alt="{{ name | default: 'Member portrait' }}"
-    >
-  </span>
+    {% include figure.html image=post.image, width=300px}
   {% endcapture %}
   
   {% capture col2content %}
@@ -31,11 +23,19 @@
   </p>
   {% include post-info.html author=post.author member=post.member date=post.date tags=post.tags %}
   {% assign content = post.content | default: "" %}
-  <p>
     {{ content | strip_html | truncate: 500 }}
-  </p>
   {% endcapture %}
   
   {% include two-col.html col1=col1content col2=col2content %}
   
 </div>
+<a class="portrait" style="--width: {{ width }}px">
+  {%- assign image = member.image | default: "" -%}
+  <span class="portrait_image">
+    <img
+      src="{{ include.image }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+      loading="lazy"
+      alt="{{ name | default: 'News Image' }}"
+    >
+  </span>
