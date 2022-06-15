@@ -10,22 +10,23 @@
 {% endfor %}
 
 <div class="post_excerpt">
-  {% assign url = post.url | default: "" %}
   {% assign title = post.title | default: "" %}
   {% assign img = post.image | default: "" %}
   
   
   {% capture col1content %}
-    {% include figure.html image=img width = "" %}
+    {% include figure.html image=img width = "100px" %}
   {% endcapture %}
   
   {% capture col2content %}
-  <p>
-    {{ title }}
-  </p>
-  {% include post-info.html author=post.author member=post.member date=post.date %}
-  {% assign content = post.content | default: "" %}
-    {{ content | strip_html | truncate: 500 }}
+    <p>
+      {{ title }}
+    </p>
+    {% include post-info.html author=post.author member=post.member date=post.date %}
+    {% assign content = post.content | default: "" %}
+    <p>
+      {{ content | strip_html | truncate: 500 }}
+    </p>
   {% endcapture %}
   
   {% include two-col.html col1=col1content col2=col2content %}
