@@ -29,13 +29,3 @@
   {% include two-col.html col1=col1content col2=col2content %}
   
 </div>
-<a class="portrait" style="--width: {{ width }}px">
-  {%- assign image = member.image | default: "" -%}
-  <span class="portrait_image">
-    <img
-      src="{{ include.image }}"
-      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-      loading="lazy"
-      alt="{{ name | default: 'News Image' }}"
-    >
-  </span>
