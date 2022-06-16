@@ -45,6 +45,7 @@ Our lab welcomes interested graduate students to join us in the fall of 2022 for
 - Why you are interested in our laboratory
 
 Please also include your CV summarizing past academic, professional and research experience along with the names of two potential references.
+
 {% include link.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a PhD position" text="Contact Dr. Vuong" icon="" style="button" %}
 {:.center}
 
@@ -59,6 +60,7 @@ If interested, please email Dr. Vuong. Attached to this email, please include a 
 - Your short- and long-term career goals
 
 Please also include your CV summarizing past academic, professional and research experience along with the names of three potential references.
+
 {% include link.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a Post-Doc position" text="Contact Dr. Vuong" icon="" style="button" %}
 {:.center}
 
