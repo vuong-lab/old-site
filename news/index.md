@@ -5,7 +5,7 @@ nav:
   tooltip: Laboratory News
 ---
 
-# <i class="fas fa-feather-alt"></i>News
+# <i class="fas fa-bullhorn"></i>News
 
 {% include section.html %}
 
