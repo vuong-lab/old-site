@@ -13,3 +13,11 @@ The trillions of microbes in and on our bodies impact numerous aspects of our ph
 We use a longitudinal approach to track and investigate direct and long-term effects of microbially-derived molecules on brain development _in utero_, in early postnatal, and adult neural circuits. We aim to leverage the microbiome for diagnoses and therapeutic potential in neurodevelopmental disorders.
 
 [Read more](research)
+
+{% include section.html %}
+
+# <i class="fas fa-bullhorn"></i>News
+
+{% include search-info.html %}
+
+{% include list.html data="posts" component="post-excerpt" %}
