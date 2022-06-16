@@ -63,13 +63,3 @@ Please also include your CV summarizing past academic, professional and research
 
 {% include link.html type="external" link="mailto:hevuong@umn.edu?subject=Interested in a Post-Doc position&body=Include CV, cover letter and 3 references" text="Contact Dr. Vuong" icon="" style="button" %}
 {:.center}
-
-{% include section.html %}
-
-# <i class="fas fa-dollar-sign"></i>Funding
-
-Our work is made possible by funding from the following organizations.
-{:.center}
-
-{% include banner.html image="images/NICHD.svg" %}
-
