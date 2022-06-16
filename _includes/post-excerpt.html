@@ -25,7 +25,7 @@
   {% capture col2content %}
   <p> {{ title }} </p>
   {% include post-info.html author=post.author member=post.member date=post.date %}
-  {{ content | strip_html | truncate: 500 }}
+  {{ content }}
   {% endcapture %}
   {% include two-col.html col1=col1content col2=col2content %}
   
