@@ -1,5 +1,5 @@
 ---
-title: New member
+title: New publication
 category: news
 image: images/inr.png
 ---
