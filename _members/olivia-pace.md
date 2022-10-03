@@ -7,6 +7,6 @@ group: current
 aliases:
   - Olivia Pace
 links:
-  email: borow084@umn.edu
+  email: pace0057@umn.edu
 ---
 
