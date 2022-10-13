@@ -62,7 +62,15 @@
       }
     }
   }
+.citation_badge {
+    width: 120px;
+    height: 120px;
+    max-width: 100%;
+    margin-left: 40px;
+    flex-shrink: 0;
+    overflow: visible;
 
+  }
   @media (max-width: $phone) {
     align-items: center;
     flex-direction: column;
