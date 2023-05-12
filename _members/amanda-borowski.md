@@ -3,7 +3,7 @@ name: Amanda Borowski
 image: images/amanda.jpg
 description:
 role: tech
-group: current
+group: past
 aliases:
   - Amanda N. Borowski
 links:

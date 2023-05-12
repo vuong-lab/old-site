@@ -9,12 +9,19 @@ nav:
 
 {% include section.html %}
 
+### Principal Investigator 
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
+
+{% include section.html %}
+
+### Current members
+
 {%
   include list.html
   data="members"
