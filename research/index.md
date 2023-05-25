@@ -86,6 +86,6 @@ The goal of this project is to further translation of microbiome research. We ai
 Our work is made possible by funding from the following organizations.
 {:.center}
 
-{% include banner.html image="images/NICHD.svg" %}
-{% include banner.html image="images/sloan.avif" %}
+{% include funder.html image="images/NICHD.svg" %}
+{% include funder.html image="images/sloan.avif" %}
 
