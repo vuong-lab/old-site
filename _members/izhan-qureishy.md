@@ -7,6 +7,6 @@ group: current
 aliases:
   - Izhan Qureishy
 links:
-  email: yyyyy@umn.edu
+  email: qurei023@umn.edu
 ---
 
