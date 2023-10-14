@@ -44,7 +44,7 @@
 
     {%- assign authors = citation.authors | default: emptyarray -%}
     <div
-      class="citation_authors {% if rich %}truncate{% endif %}"
+      class="citation_authors"
       {% if rich %}tabindex="0"{% endif %}
     >
       {{ authors | join: ", " }}
@@ -76,12 +76,38 @@
   </div>
     {%- if rich -%}
   {%- assign id = citation.id -%}
-  <div class = "citation_badge">
+<div class = "citation_badge">
     
-  <span class="__dimensions_badge_embed__" data-doi="{{ id | remove_first: 'doi:' }}" data-style="large_rectangle" data-legend="hover-right"></span>&nbsp;
-  <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js' charset="utf-8"></script> <div data-badge-type="1" class='altmetric-embed' data-badge-popover='right' data-doi="{{ id | remove_first: 'doi:' }}"></div> 
- 
+<span 
+  class="__dimensions_badge_embed__" 
+  data-doi="{{ id | remove_first: 'doi:' }}" 
+  data-style="large_rectangle" 
+  data-legend="hover-right">
+</span>
+<br>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script 
+  type='text/javascript' 
+  src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js' 
+  charset="utf-8">
+</script> 
+<div 
+  data-badge-type="1" 
+  class='altmetric-embed' 
+  data-badge-popover='right' 
+  data-doi="{{ id | remove_first: 'doi:' }}">
+</div> 
+<br>
+<div class="scite-badge"
+     data-doi="{{ id | remove_first: 'doi:' }}"
+     data-layout="horizontal"
+     data-show-zero="true"
+     data-small="true"
+     data-show-labels="false"
+     data-tally-show="true">
+</div>
+<script async type="application/javascript" src="https://cdn.scite.ai/badge/scite-badge-latest.min.js">
+</script>
     
 </div>
 {%- endif -%}
