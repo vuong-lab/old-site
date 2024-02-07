@@ -32,6 +32,18 @@ nav:
 
 {% include section.html %}
 
+### Lab alumni
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="group: past"
+%}
+{:.center}
+
+{% include section.html %}
+
 ## Join
 
 The Vuong lab is currently recruiting scientists to fill different roles within the laboratory. If you are interested in joining our vibrant team, please follow the links below to apply. 
@@ -45,7 +57,7 @@ We are recruiting motivated, creative, and forward-thinking research technicians
 
 #### Graduate Students
 
-Our lab welcomes interested graduate students to join us in the fall of 2022 for a rotation. We expect to recruit 1 Ph.D. student to join the lab in the 2023-2024 academic year. If you are a prospective graduate student who would like to rotate in our laboratory, please send Dr. Vuong an email expressing your interest. Attached to this email, please also include a short cover letter detailing the following:
+Our lab welcomes interested graduate students to join us in the summer/fall of 2024 for a rotation. We expect to recruit 1-2 Ph.D. students to join the lab in the 2024-2025 academic year. If you are a prospective graduate student who would like to rotate in our laboratory, please send Dr. Vuong an email expressing your interest. Attached to this email, please also include a short cover letter detailing the following:
 
 - Your research interests
 - Your short- and long-term career goals 
