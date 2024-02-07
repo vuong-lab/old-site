@@ -3,7 +3,7 @@ name: Olivia Pace
 image: images/olivia.jpg
 description:
 role: undergrad
-group: current
+group: past
 aliases:
   - Olivia Pace
 links:

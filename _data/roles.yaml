@@ -18,6 +18,10 @@ tech:
   icon: fas fa-search
   text: Research Assistant
   
+gnoto:
+  icon: fas fa-mouse
+  text: Gnotobiotic manager
+
 mascot:
   icon: fas fa-paw
   text: Lab mascot
