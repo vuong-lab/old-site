@@ -3,7 +3,7 @@ name: Izhan Qureishy
 image: images/izhan.jpeg
 description:
 role: undergrad
-group: current
+group: past
 aliases:
   - Izhan Qureishy
 links:
