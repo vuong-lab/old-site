@@ -1,5 +1,18 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.mib.2024.102494
+  title: Host–microbe interactions: communication in the microbiota–gut–brain axis
+  authors:
+  - Aryan Shekarabi
+  - Izhan Qureishy
+  - Chloe H. Puglisi
+  - Marge Dalseth
+  - Helen E. Vuong
+  publisher: Current Opinion in Microbiology
+  date: '2024-08-01'
+  link: https://doi.org/10.1016/j.mib.2024.102494
+  image: images/coim.svg
+
 - id: doi:10.1126/sciadv.adk1887
   title: The maternal microbiome promotes placental development in mice
   authors:
